@@ -1,1 +1,1 @@
-# Kvarq docker
+# Docker image for kvarq process
