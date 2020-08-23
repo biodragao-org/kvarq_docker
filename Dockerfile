@@ -1,5 +1,5 @@
-FROM abhi18av/biodragao_base
-MAINTAINER Abhinav Sharma (@abhi18av)
+FROM nextflowhubcontainers/base
+MAINTAINER Shruti Sharma (@sharma-shruti)
 
 #########
 # commands
